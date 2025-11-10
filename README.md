@@ -31,5 +31,5 @@ Cada arquivo corresponde a um exercício diferente, com título que indica o tem
 
 1. Clone o repositório  
    ```bash
-   git clone https://github.com/seu-usuario/pratica-primeiros-programas.git
-   cd pratica-primeiros-programas
+   git clone https://github.com/CarolRodrigues14/Python---L-gica-de-Programa--o
+  
